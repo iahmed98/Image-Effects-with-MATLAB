@@ -8,4 +8,4 @@ The program takes an input of an image file. Multiple formats are able to be rea
 After every (successful) operation, the program will display the new image in the GUI, and the user can continue to perform transformations. The user can save a session for later using the 'Save & Quit' button, which will export a .mat file with the same name as the original file. The user can also opt to export the transformed image in the same format it was originally saved in.
 
 ### Usage
-Run this program in the MATLAB editor with the command '>> project'
+Run this program in the MATLAB editor with the command `>> project`
