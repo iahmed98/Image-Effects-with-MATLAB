@@ -11,7 +11,7 @@ After every (successful) operation, the program will display the new image in th
 Run this program in the MATLAB editor with the command `>> project`
 
 ### Example
-Vectorizing and Floyd-steinberg dithering using 4 colors, Qm = 1 and Qe = 2,  where Qm specifies the number of quantization bits to use along each color axis for the inverse color map, and Qe specifies the number of quantization bits to use for the color space error calculations.
+Vectorizing and Floyd-steinberg dithering using 4 colors, Q<sub>m</sub> = 1 and Q<sub>e</sub> = 2,  where Q<sub>m</sub> specifies the number of quantization bits to use along each color axis for the inverse color map, and Q<sub>e</sub> specifies the number of quantization bits to use for the color space error calculations.
 
 ![alt text](https://raw.githubusercontent.com/iahmed98/Image-Effects-with-MATLAB/master/src/examples/spiderman_new.jpg)
 
